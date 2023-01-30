@@ -1,6 +1,6 @@
 # Excel_challenges
 
-In this excel challenge, I completed the data analysis by using the below methoods.
+In this excel challenge, I completed the data analysis by using the below methods.
 
 -conditional formatting
 -pivot table
