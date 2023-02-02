@@ -13,7 +13,11 @@ In this excel challenge, I completed the data analysis by using the below method
 Please find the conclusion in this repository under the name of "Excel_challenges_conclusion". 
 
 ![image](https://user-images.githubusercontent.com/113545468/216434569-edb3d64b-467a-472f-b15a-e7587b1034f0.png)
-![image](https://user-images.githubusercontent.com/113545468/216434878-3ed374d7-c188-417d-aa29-117cb9dccbf0.png)
-![image](https://user-images.githubusercontent.com/113545468/216434674-ede6c1c0-6b8f-4c94-9265-90b02db6c7f6.png)
-![image](https://user-images.githubusercontent.com/113545468/216434731-803aca33-cc3b-49d8-90a5-6eee0bcbc1a5.png)
+![image](https://user-images.githubusercontent.com/113545468/216435520-29c9d841-5ef4-44b4-a3d5-d7c71ea4dfa4.png)
+![image](https://user-images.githubusercontent.com/113545468/216435561-47e873f7-eb55-4b93-8c55-0457e1ec064c.png)
+![image](https://user-images.githubusercontent.com/113545468/216435601-0a400799-db3d-4f99-86ff-738489eb949a.png)
+
+
+
+
 
