@@ -1,4 +1,4 @@
-# Excel_challenges
+# Marketing Campaign Analysis
 
 In this excel challenge, I completed the data analysis by using the below methods.
  
